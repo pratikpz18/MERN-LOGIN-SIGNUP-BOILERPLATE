@@ -1,4 +1,4 @@
-# MERN-LOGIN-REGISTRATION-BOILERPLATE
+# MERN-LOGIN-SIGNUP-BOILERPLATE
 This will be helpful for those who are looking for login-registration reference which is build using MERN stack..
 
 # npm install
